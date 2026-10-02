@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525055010705",
+    "project_id": "clearbill-25dd8",
+    "storage_bucket": "clearbill-25dd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525055010705:android:077589b82d8c6860ed9c30",
+        "android_client_info": {
+          "package_name": "com.subhaworld.clearbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525055010705-bi8mhg294v1m8j6m4ticgvvujfuuf40o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmnSJT-HTBYYVg_kmLmKVqG_0KWULk_xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525055010705-bi8mhg294v1m8j6m4ticgvvujfuuf40o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
